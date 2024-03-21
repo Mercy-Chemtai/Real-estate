@@ -1,0 +1,36 @@
+
+#container{
+margin:5%;
+margin-left: 5%;
+
+}
+.display{
+    display:flex 
+}
+.base1{
+ padding-right:680px ;
+}
+.base{
+display:flex
+}
+.home{padding-right:40% ;
+font-size:100% ;}
+.pro{
+    padding-left: 50%;
+}
+.page2{
+    padding-left: 20%;
+    gap: 300px;
+    display:flex
+      
+}
+.page3{
+    display:flex;
+    gap:15%;
+}
+.page4{
+    display:flex
+}
+.subpage4{
+    padding-left: 20%;
+}
